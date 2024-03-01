@@ -1,0 +1,215 @@
+.guly-logo-2-removebg-preview-1-icon {
+    position: absolute;
+    top: 21px;
+    left: 65px;
+    width: 259px;
+    height: 197px;
+    object-fit: cover;
+    mix-blend-mode: linear-burn;
+  }
+  .iphone-13-14-1-child {
+    position: absolute;
+    top: 218px;
+    left: 96px;
+    border-radius: 48px;
+    width: 197px;
+    height: 197px;
+    object-fit: cover;
+  }
+  .iphone-13-14-1-item {
+    position: absolute;
+    top: 436px;
+    left: 32px;
+    border-radius: var(--br-xs);
+    background-color: rgba(58, 0, 0, 0.68);
+    width: 327px;
+    height: 390px;
+  }
+  .component-2-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-gainsboro);
+  }
+  .e-mail {
+    position: absolute;
+    height: 59.62%;
+    width: 89.49%;
+    top: 25%;
+    left: 5.06%;
+    letter-spacing: 0.17em;
+    display: inline-block;
+  }
+  .component-2 {
+    position: absolute;
+    top: 471px;
+    left: 67px;
+    width: 257px;
+    height: 52px;
+    color: var(--color-gray-400);
+  }
+  .component-3-child {
+    position: absolute;
+    height: 100%;
+    width: 96.25%;
+    top: -19.23%;
+    right: 3.75%;
+    bottom: 19.23%;
+    left: 0;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-gainsboro);
+  }
+  .password {
+    position: absolute;
+    height: 76.92%;
+    width: 94.76%;
+    top: 3.85%;
+    left: 5.24%;
+    letter-spacing: 0.17em;
+    display: inline-block;
+  }
+  .component-3 {
+    position: absolute;
+    top: 554px;
+    left: 66px;
+    width: 267px;
+    height: 52px;
+    color: var(--color-gray-400);
+  }
+  .iphone-13-14-1-inner,
+  .line-div {
+    position: absolute;
+    top: 683.5px;
+    left: 57.5px;
+    border-top: 1px solid var(--color-white);
+    box-sizing: border-box;
+    width: 126px;
+    height: 1px;
+  }
+  .line-div {
+    left: 207.5px;
+  }
+  .gully-players,
+  .or {
+    position: absolute;
+    top: 668px;
+    left: 186px;
+    font-family: var(--font-inria-sans);
+    display: inline-block;
+    width: 26px;
+    height: 27px;
+  }
+  .gully-players {
+    top: 58px;
+    left: 125px;
+    color: var(--color-gray-100);
+    width: 188px;
+    height: 41px;
+  }
+  .create-an-account,
+  .sign-up {
+    position: absolute;
+    top: 780px;
+    left: 72px;
+    display: inline-block;
+    width: 178px;
+    height: 35px;
+  }
+  .sign-up {
+    height: 68.57%;
+    width: 114.29%;
+    top: -5.71%;
+    left: 11.61%;
+  }
+  .sing-up {
+    position: absolute;
+    top: 782px;
+    left: 237px;
+    width: 112px;
+    height: 35px;
+    cursor: pointer;
+    color: var(--color-royalblue);
+  }
+  .component-4-child {
+    position: absolute;
+    height: 100%;
+    width: 86.43%;
+    top: 0;
+    right: 13.57%;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-7xs);
+    background-color: var(--color-darkred);
+  }
+  .log-in {
+    position: absolute;
+    height: 70.45%;
+    width: 78.57%;
+    top: 20.45%;
+    left: 21.43%;
+    display: inline-block;
+  }
+  .component-4 {
+    position: absolute;
+    top: 624px;
+    left: 131px;
+    width: 140px;
+    height: 44px;
+    cursor: pointer;
+  }
+  .component-1-child {
+    position: absolute;
+    height: 100%;
+    width: 90.48%;
+    top: 0;
+    right: 9.52%;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-darkred);
+  }
+  .continue-with-google {
+    position: absolute;
+    height: 59.32%;
+    width: 79.93%;
+    top: 28.81%;
+    left: 20.07%;
+    display: inline-block;
+  }
+  .google-1-icon {
+    position: absolute;
+    height: 57.63%;
+    width: 11.56%;
+    top: 22.03%;
+    right: 84.35%;
+    bottom: 20.34%;
+    left: 4.08%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+  }
+  .component-1 {
+    position: absolute;
+    top: 708px;
+    left: 67px;
+    width: 294px;
+    height: 59px;
+  }
+  .iphone-13-14-1 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkred);
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-jura);
+  }
+  
