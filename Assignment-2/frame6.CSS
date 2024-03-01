@@ -1,0 +1,142 @@
+.in-your-area {
+    position: absolute;
+    top: 80px;
+    left: 54px;
+    font-size: var(--font-size-21xl);
+    display: inline-block;
+    width: 281px;
+    height: 60px;
+  }
+  .iphone-13-14-5-child {
+    position: absolute;
+    top: 158px;
+    left: 28px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-maroon);
+    width: 333px;
+    height: 217px;
+  }
+  .component-42-child {
+    position: absolute;
+    height: 100%;
+    width: 97.4%;
+    top: 0;
+    right: 2.6%;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-6xs);
+    background-color: var(--color-darkred);
+  }
+  .ask-to-join {
+    position: absolute;
+    height: 68.85%;
+    width: 84.74%;
+    top: 8.2%;
+    left: 15.26%;
+    display: inline-block;
+  }
+  .component-42 {
+    position: absolute;
+    top: 300px;
+    left: 45px;
+    width: 308px;
+    height: 61px;
+    cursor: pointer;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+  }
+  .iphone-13-14-5-item {
+    position: absolute;
+    top: 422px;
+    left: 28px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-maroon);
+    width: 333px;
+    height: 217px;
+  }
+  .component-43 {
+    position: absolute;
+    top: 564px;
+    left: 45px;
+    width: 308px;
+    height: 61px;
+    cursor: pointer;
+    text-align: left;
+    font-size: var(--font-size-21xl);
+  }
+  .component-41-child {
+    position: absolute;
+    height: 94.04%;
+    width: 22.7%;
+    top: 48.94%;
+    right: 77.3%;
+    bottom: -42.98%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .back12 {
+    position: absolute;
+    height: 100%;
+    width: 93.25%;
+    top: 0;
+    left: 6.75%;
+    display: inline-block;
+  }
+  .component-41 {
+    position: absolute;
+    top: 15px;
+    left: 24px;
+    width: 163px;
+    height: 47px;
+    cursor: pointer;
+  }
+  .cant-find-one {
+    margin: 0;
+  }
+  .create-one {
+    margin: 0;
+    color: var(--color-royalblue);
+    white-space: pre-wrap;
+  }
+  .cant-find-one-container {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    display: inline-block;
+  }
+  .cant-find-one-create-one {
+    position: absolute;
+    top: 658px;
+    left: 16px;
+    width: 357px;
+    height: 85px;
+  }
+  .team-details,
+  .team-details1 {
+    position: absolute;
+    top: 203px;
+    left: 40px;
+    display: inline-block;
+    width: 309px;
+    height: 50px;
+  }
+  .team-details1 {
+    top: 471px;
+    left: 44px;
+  }
+  .iphone-13-14-5 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkred);
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+    font-family: var(--font-jura);
+  }
+  
