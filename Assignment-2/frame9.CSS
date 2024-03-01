@@ -1,0 +1,59 @@
+.component-44-inner {
+    position: absolute;
+    height: 94.04%;
+    width: 22.7%;
+    top: 48.94%;
+    right: 77.3%;
+    bottom: -42.98%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .back15 {
+    position: absolute;
+    height: 100%;
+    width: 93.25%;
+    top: 0;
+    left: 6.75%;
+    display: inline-block;
+  }
+  .component-442 {
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    width: 163px;
+    height: 47px;
+    cursor: pointer;
+  }
+  .iphone-13-14-8-child {
+    position: absolute;
+    top: 102px;
+    left: 23px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-maroon);
+    width: 343px;
+    height: 461px;
+  }
+  .your-team-is {
+    margin: 0;
+  }
+  .your-team-is-container {
+    position: absolute;
+    top: 111px;
+    left: 36px;
+    display: inline-block;
+    width: 320px;
+    height: 332px;
+  }
+  .iphone-13-14-8 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkred);
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+    font-family: var(--font-jura);
+  }
