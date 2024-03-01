@@ -1,0 +1,142 @@
+.component-44-item {
+    position: absolute;
+    height: 94.04%;
+    width: 22.7%;
+    top: 48.94%;
+    right: 77.3%;
+    bottom: -42.98%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .back14 {
+    position: absolute;
+    height: 100%;
+    width: 93.25%;
+    top: 0;
+    left: 6.75%;
+    display: inline-block;
+  }
+  .component-441 {
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    width: 163px;
+    height: 47px;
+    cursor: pointer;
+    color: var(--color-white);
+  }
+  .iphone-13-14-7-child,
+  .iphone-13-14-7-child1,
+  .iphone-13-14-7-child2,
+  .iphone-13-14-7-inner,
+  .iphone-13-14-7-item {
+    position: absolute;
+    top: 105px;
+    left: 22px;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-gainsboro);
+    width: 346px;
+    height: 53px;
+  }
+  .iphone-13-14-7-child1,
+  .iphone-13-14-7-child2,
+  .iphone-13-14-7-inner,
+  .iphone-13-14-7-item {
+    top: 180px;
+    height: 142px;
+  }
+  .iphone-13-14-7-child1,
+  .iphone-13-14-7-child2,
+  .iphone-13-14-7-inner {
+    top: 341px;
+    height: 52px;
+  }
+  .iphone-13-14-7-child1,
+  .iphone-13-14-7-child2 {
+    top: 416px;
+    height: 53px;
+  }
+  .iphone-13-14-7-child2 {
+    top: 491px;
+  }
+  .location,
+  .number-of-players {
+    position: absolute;
+    top: 110px;
+    left: 28px;
+    display: inline-block;
+    width: 340px;
+    height: 34px;
+  }
+  .location {
+    top: 189px;
+    width: 177px;
+    height: 37px;
+  }
+  .age-between,
+  .equipments-needed,
+  .timing {
+    position: absolute;
+    top: 344px;
+    left: 22px;
+    display: inline-block;
+    width: 280px;
+    height: 42px;
+  }
+  .equipments-needed,
+  .timing {
+    top: 422px;
+    left: 29px;
+    text-align: left;
+    width: 282px;
+    height: 47px;
+  }
+  .equipments-needed {
+    top: 496px;
+    left: 22px;
+    width: 362px;
+    height: 54px;
+  }
+  .component-45-child {
+    position: absolute;
+    height: 92.65%;
+    width: 92.21%;
+    top: 0;
+    right: 7.79%;
+    bottom: 7.35%;
+    left: 0;
+    border-radius: var(--br-5xs);
+    background-color: var(--color-maroon);
+  }
+  .next1 {
+    position: absolute;
+    height: 83.82%;
+    width: 81.82%;
+    top: 16.18%;
+    left: 18.18%;
+    display: inline-block;
+  }
+  .component-45 {
+    position: absolute;
+    top: 568px;
+    left: 124px;
+    width: 154px;
+    height: 68px;
+    cursor: pointer;
+    text-align: left;
+    color: var(--color-white);
+  }
+  .iphone-13-14-7 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkred);
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-17xl);
+    color: var(--color-gray-200);
+    font-family: var(--font-jura);
+  }
+  
