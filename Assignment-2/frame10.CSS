@@ -1,0 +1,80 @@
+.component-44-child1 {
+    position: absolute;
+    height: 94.04%;
+    width: 22.7%;
+    top: 48.94%;
+    right: 77.3%;
+    bottom: -42.98%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .back16 {
+    position: absolute;
+    height: 100%;
+    width: 93.25%;
+    top: 0;
+    left: 6.75%;
+    display: inline-block;
+  }
+  .component-443 {
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    width: 163px;
+    height: 47px;
+    cursor: pointer;
+  }
+  .iphone-13-14-9-child,
+  .iphone-13-14-9-child1,
+  .iphone-13-14-9-child2,
+  .iphone-13-14-9-child3,
+  .iphone-13-14-9-inner,
+  .iphone-13-14-9-item {
+    position: absolute;
+    top: 96px;
+    left: 24px;
+    border-radius: var(--br-mini);
+    background-color: var(--color-maroon);
+    width: 342px;
+    height: 89px;
+  }
+  .iphone-13-14-9-child1,
+  .iphone-13-14-9-child2,
+  .iphone-13-14-9-child3,
+  .iphone-13-14-9-inner,
+  .iphone-13-14-9-item {
+    top: 219px;
+  }
+  .iphone-13-14-9-child1,
+  .iphone-13-14-9-child2,
+  .iphone-13-14-9-child3,
+  .iphone-13-14-9-inner {
+    top: 342px;
+  }
+  .iphone-13-14-9-child1,
+  .iphone-13-14-9-child2,
+  .iphone-13-14-9-child3 {
+    top: 465px;
+  }
+  .iphone-13-14-9-child2,
+  .iphone-13-14-9-child3 {
+    top: 588px;
+    left: 27px;
+  }
+  .iphone-13-14-9-child3 {
+    top: 711px;
+  }
+  .iphone-13-14-9 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkred);
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-17xl);
+    color: var(--color-white);
+    font-family: var(--font-jura);
+  }
+  
