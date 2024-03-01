@@ -1,0 +1,337 @@
+.iphone-13-14-4-child {
+    position: absolute;
+    top: 68px;
+    left: 23px;
+    background-color: var(--color-maroon);
+    width: 343px;
+    height: 137px;
+  }
+  .select-a-sport4 {
+    position: absolute;
+    top: 77px;
+    left: 41px;
+    font-size: var(--font-size-29xl);
+    display: inline-block;
+    width: 308px;
+    height: 140px;
+  }
+  .component-12-item {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+  }
+  .volleyball3 {
+    position: absolute;
+    height: 51.95%;
+    width: 84.36%;
+    top: 23.38%;
+    left: 9.09%;
+    display: inline-block;
+  }
+  .component-121,
+  .cricket3 {
+    position: absolute;
+    top: 223px;
+    left: 54px;
+    width: 275px;
+    height: 77px;
+  }
+  .cricket3 {
+    height: 77.92%;
+    width: 88%;
+    top: 16.88%;
+    left: 6.18%;
+    display: inline-block;
+  }
+  .component-131,
+  .kabbadi3 {
+    position: absolute;
+    top: 334px;
+    left: 54px;
+    width: 275px;
+    height: 77px;
+  }
+  .kabbadi3 {
+    height: 77.92%;
+    width: 93.82%;
+    top: 11.69%;
+    left: 5.45%;
+    display: inline-block;
+  }
+  .component-141 {
+    position: absolute;
+    top: 445px;
+    left: 54px;
+    width: 275px;
+    height: 77px;
+  }
+  .component-15-item {
+    position: absolute;
+    height: 98.72%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 1.28%;
+    left: 0;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+  }
+  .badminton3 {
+    position: absolute;
+    height: 82.05%;
+    width: 93.82%;
+    top: 17.95%;
+    left: 3.27%;
+    display: inline-block;
+  }
+  .component-151,
+  .football3 {
+    position: absolute;
+    top: 556px;
+    left: 54px;
+    width: 275px;
+    height: 78px;
+  }
+  .football3 {
+    height: 81.82%;
+    width: 94.91%;
+    top: 18.18%;
+    left: 2.55%;
+    display: inline-block;
+  }
+  .component-161,
+  .more3 {
+    position: absolute;
+    top: 667px;
+    left: 54px;
+    width: 275px;
+    height: 77px;
+  }
+  .more3 {
+    height: 62.07%;
+    width: 76.67%;
+    top: 8.62%;
+    left: 12.78%;
+    display: inline-block;
+  }
+  .component-171 {
+    position: absolute;
+    top: 777px;
+    left: 103px;
+    width: 180px;
+    height: 58px;
+  }
+  .component-18-item {
+    position: absolute;
+    height: 94.04%;
+    width: 22.7%;
+    top: 48.94%;
+    right: 77.3%;
+    bottom: -42.98%;
+    left: 0;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .back4 {
+    position: absolute;
+    height: 100%;
+    width: 93.25%;
+    top: 0;
+    left: 6.75%;
+    display: inline-block;
+  }
+  .component-181 {
+    position: absolute;
+    top: 9px;
+    left: 29px;
+    width: 163px;
+    height: 47px;
+    cursor: pointer;
+    font-size: var(--font-size-17xl);
+  }
+  .iphone-13-14-4-inner {
+    position: absolute;
+    height: 9.12%;
+    width: 70.51%;
+    top: 26.42%;
+    right: 15.64%;
+    bottom: 64.45%;
+    left: 13.85%;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+  }
+  .volleyball4 {
+    position: absolute;
+    height: 4.74%;
+    width: 59.49%;
+    top: 28.55%;
+    left: 20.26%;
+    display: inline-block;
+  }
+  .iphone-13-14-4-child1 {
+    position: absolute;
+    height: 9.12%;
+    width: 70.51%;
+    top: 39.57%;
+    right: 15.64%;
+    bottom: 51.3%;
+    left: 13.85%;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+  }
+  .cricket4 {
+    position: absolute;
+    height: 7.11%;
+    width: 62.05%;
+    top: 41.11%;
+    left: 18.21%;
+    display: inline-block;
+  }
+  .iphone-13-14-4-child2 {
+    position: absolute;
+    height: 9.12%;
+    width: 70.51%;
+    top: 52.73%;
+    right: 15.64%;
+    bottom: 38.15%;
+    left: 13.85%;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+  }
+  .kabbadi4 {
+    position: absolute;
+    height: 7.11%;
+    width: 66.15%;
+    top: 53.79%;
+    left: 17.69%;
+    display: inline-block;
+  }
+  .iphone-13-14-4-child3 {
+    position: absolute;
+    height: 9.12%;
+    width: 70.51%;
+    top: 65.88%;
+    right: 15.64%;
+    bottom: 25%;
+    left: 13.85%;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+  }
+  .badminton4 {
+    position: absolute;
+    height: 7.58%;
+    width: 66.15%;
+    top: 67.54%;
+    left: 16.15%;
+    display: inline-block;
+  }
+  .iphone-13-14-4-child4 {
+    position: absolute;
+    height: 9.12%;
+    width: 70.51%;
+    top: 79.03%;
+    right: 15.64%;
+    bottom: 11.85%;
+    left: 13.85%;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+  }
+  .football4 {
+    position: absolute;
+    height: 7.46%;
+    width: 66.92%;
+    top: 80.69%;
+    left: 15.64%;
+    display: inline-block;
+  }
+  .iphone-13-14-4-child5 {
+    position: absolute;
+    height: 5.24%;
+    width: 9.49%;
+    top: 3.79%;
+    right: 83.08%;
+    bottom: 90.97%;
+    left: 7.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .back5 {
+    position: absolute;
+    height: 5.57%;
+    width: 38.97%;
+    top: 1.07%;
+    left: 10.26%;
+    font-size: var(--font-size-17xl);
+    display: inline-block;
+  }
+  .iphone-13-14-4-child27,
+  .iphone-13-14-4-child28,
+  .iphone-13-14-4-child29,
+  .iphone-13-14-4-child30,
+  .iphone-13-14-4-child31 {
+    position: absolute;
+    height: 9.12%;
+    width: 70.51%;
+    top: 26.42%;
+    right: 15.64%;
+    bottom: 64.45%;
+    left: 13.85%;
+    border-radius: var(--br-xs);
+    background-color: var(--color-maroon);
+    cursor: pointer;
+  }
+  .iphone-13-14-4-child28,
+  .iphone-13-14-4-child29,
+  .iphone-13-14-4-child30,
+  .iphone-13-14-4-child31 {
+    top: 39.57%;
+    bottom: 51.3%;
+  }
+  .iphone-13-14-4-child29,
+  .iphone-13-14-4-child30,
+  .iphone-13-14-4-child31 {
+    top: 52.73%;
+    bottom: 38.15%;
+  }
+  .iphone-13-14-4-child30,
+  .iphone-13-14-4-child31 {
+    top: 65.88%;
+    bottom: 25%;
+  }
+  .iphone-13-14-4-child31 {
+    top: 79.03%;
+    bottom: 11.85%;
+  }
+  .iphone-13-14-4-child32 {
+    position: absolute;
+    height: 5.24%;
+    width: 9.49%;
+    top: 3.79%;
+    right: 83.08%;
+    bottom: 90.97%;
+    left: 7.44%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    cursor: pointer;
+  }
+  .iphone-13-14-4 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkred);
+    height: 844px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-21xl);
+    color: var(--color-white);
+    font-family: var(--font-jura);
+  }
+  
