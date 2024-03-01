@@ -1,0 +1,219 @@
+.iphone-13-14-2-child {
+    position: absolute;
+    top: 17px;
+    left: 17px;
+    border-radius: var(--br-4xs);
+    width: 142px;
+    height: 142px;
+    object-fit: cover;
+  }
+  .g-mail,
+  .mobile-no,
+  .user-id {
+    position: absolute;
+    top: 31px;
+    left: 182px;
+    font-size: var(--font-size-xl);
+    display: inline-block;
+    width: 196px;
+    height: 42px;
+  }
+  .g-mail,
+  .mobile-no {
+    top: 60px;
+    left: 179px;
+    width: 117px;
+    height: 40px;
+  }
+  .g-mail {
+    top: 88px;
+    left: 182px;
+    width: 132px;
+    height: 43px;
+  }
+  .component-5-child {
+    position: absolute;
+    height: 91.67%;
+    width: 94.7%;
+    top: 0;
+    right: 5.3%;
+    bottom: 8.33%;
+    left: 0;
+    border-radius: var(--br-8xs);
+    background-color: var(--color-maroon);
+  }
+  .edit-profile {
+    position: absolute;
+    height: 91.67%;
+    width: 97.73%;
+    top: 8.33%;
+    left: 2.27%;
+    display: inline-block;
+  }
+  .component-5 {
+    position: absolute;
+    top: 123px;
+    left: 179px;
+    width: 132px;
+    height: 36px;
+    font-size: var(--font-size-xl);
+  }
+  .component-6-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: var(--br-2xs);
+    background-color: var(--color-maroon);
+  }
+  .join-a-team {
+    position: absolute;
+    height: 62.16%;
+    width: 54.55%;
+    top: 25.68%;
+    left: 24.85%;
+    display: inline-block;
+  }
+  .component-6 {
+    position: absolute;
+    top: 187px;
+    left: 27px;
+    width: 330px;
+    height: 74px;
+    cursor: pointer;
+  }
+  .create-a-team {
+    position: absolute;
+    height: 70.27%;
+    width: 71.52%;
+    top: 29.73%;
+    left: 14.24%;
+    display: inline-block;
+  }
+  .component-9 {
+    position: absolute;
+    top: 289px;
+    left: 27px;
+    width: 330px;
+    height: 74px;
+    cursor: pointer;
+  }
+  .share-the-app,
+  .text {
+    position: absolute;
+    height: 79.73%;
+    width: 73.33%;
+    top: 13.51%;
+    left: 15.76%;
+    display: inline-block;
+  }
+  .share-the-app {
+    height: 72.97%;
+    width: 69.39%;
+    top: 27.03%;
+    left: 17.58%;
+  }
+  .component-7,
+  .rate-the-app {
+    position: absolute;
+    top: 391px;
+    left: 27px;
+    width: 330px;
+    height: 74px;
+  }
+  .rate-the-app {
+    height: 64.86%;
+    width: 64.55%;
+    top: 24.32%;
+    left: 21.52%;
+    display: inline-block;
+  }
+  .change-language,
+  .component-8 {
+    position: absolute;
+    top: 493px;
+    left: 27px;
+    width: 330px;
+    height: 74px;
+  }
+  .change-language {
+    height: 60.81%;
+    width: 83.94%;
+    top: 18.92%;
+    left: 7.88%;
+    display: inline-block;
+  }
+  .component-10 {
+    position: absolute;
+    top: 595px;
+    left: 27px;
+    width: 330px;
+    height: 74px;
+    cursor: pointer;
+  }
+  .log-out {
+    position: absolute;
+    height: 68.92%;
+    width: 46.97%;
+    top: 21.62%;
+    left: 32.42%;
+    display: inline-block;
+  }
+  .component-11 {
+    position: absolute;
+    top: 697px;
+    left: 27px;
+    width: 330px;
+    height: 74px;
+    cursor: pointer;
+  }
+  .terms-cond {
+    position: absolute;
+    top: 809px;
+    left: 12px;
+    font-size: var(--font-size-xl);
+    display: inline-block;
+    width: 372px;
+    height: 35px;
+  }
+  .iphone-13-14-2-item {
+    position: absolute;
+    top: 4px;
+    left: 298px;
+    border-radius: var(--br-2xs);
+    background-color: var(--color-maroon);
+    width: 84px;
+    height: 49px;
+  }
+  .conversation-1-icon {
+    position: absolute;
+    top: 11px;
+    left: 302px;
+    width: 34px;
+    height: 34px;
+    object-fit: cover;
+  }
+  .dm {
+    position: absolute;
+    top: 9px;
+    left: 328px;
+    text-align: center;
+    display: inline-block;
+    width: 60px;
+    height: 37px;
+  }
+  .iphone-13-14-2 {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-darkred);
+    height: 844px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-13xl);
+    color: var(--color-white);
+    font-family: var(--font-jura);
+  }
+  
